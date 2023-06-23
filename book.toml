@@ -10,9 +10,6 @@ authors = ["Coffeelize"]
 git-repository-url = "https://github.com/coffeelize/clip"
 edit-url-template = "https://github.com/coffeelize/clip/edit/main/{path}"
 
-[output.html.search]
-enable = false
-
 [output.markdown]
 enable = true
 

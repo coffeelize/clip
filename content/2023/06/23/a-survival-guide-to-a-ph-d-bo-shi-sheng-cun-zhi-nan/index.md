@@ -1,7 +1,7 @@
 ---
 title: "A Survival Guide to a PhD"
-date: 2023-06-23T18:16:35+08:00
-updated: 2023-06-23T18:16:35+08:00
+date: 2023-06-23T22:54:17+08:00
+updated: 2023-06-23T22:54:17+08:00
 taxonomies:
   tags: []
 extra:
@@ -18,7 +18,7 @@ This guide is patterned after my [“Doing well in your courses”](http://cs.st
 
 ### Preliminaries 预赛
 
-![](phds.jpeg)
+![](phds.jpg)
 
 First, should you want to get a PhD? I was in a fortunate position of knowing since young age that I really wanted a PhD. Unfortunately it wasn’t for any very well-thought-through considerations: First, I really liked school and learning things and I wanted to learn as much as possible, and second, I really wanted to be like [Gordon Freeman](https://en.wikipedia.org/wiki/Gordon_Freeman) from the game Half-Life (who has a PhD from MIT in theoretical physics). I loved that game. But what if you’re more sensible in making your life’s decisions? Should you want to do a PhD? There’s a very nice [Quora thread](https://www.quora.com/I-got-a-job-offer-from-Google-Facebook-Microsoft-and-I-also-got-accepted-into-the-PhD-in-Computer-Science-program-at-MIT-Stanford-Berkeley-What-factors-should-I-consider-while-making-a-choice-between-the-two) and in the summary of considerations that follows I’ll borrow/restate several from Justin/Ben/others there. I’ll assume that the second option you are considering is joining a medium-large company (which is likely most common). Ask yourself if you find the following properties appealing:  
 
@@ -230,7 +230,7 @@ Another great resource on this topic is [Tips for Writing Technical Papers](http
 
 ### Writing code 编写代码
 
-![](code.jpeg)
+![](code.jpg)
 
 A lot of your time will of course be taken up with the _execution_ of your ideas, which likely involves a lot of coding. I won’t dwell on this too much because it’s not uniquely academic, but I would like to bring up a few points.  
 
@@ -246,7 +246,7 @@ A lot of your time will of course be taken up with the _execution_ of your ideas
 
 ### Giving talks 发表演讲
 
-![](talk.jpeg)
+![](talk.jpg)
 
 So, you published a paper and it’s an oral! Now you get to give a few minute talk to a large audience of people - what should it look like?  
 
@@ -286,7 +286,7 @@ So, you published a paper and it’s an oral! Now you get to give a few minute t
 
 ### Attending conferences 参加会议
 
-![](posters.jpeg)
+![](posters.jpg)
 
 On the subject of conferences:  
 
