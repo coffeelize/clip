@@ -1,14 +1,14 @@
-base_url = "https://clip-template.vercel.app"
+base_url = "https://clip-yuanzhuangkafei.vercel.app/"
 [book]
-title = "Owen's Clip"
-description = "Owen's Clip"
+title = "Coffeelize's Clip Book"
+description = "Coffeelize's Clip"
 src = "content"
 language = "zh"
-authors = ["Owen Young"]
+authors = ["Coffeelize"]
 
 [output.html]
-git-repository-url = "https://github.com/theowenyoung/clip-template"
-edit-url-template = "https://github.com/theowenyoung/clip-template/edit/main/{path}"
+git-repository-url = "https://github.com/coffeelize/clip"
+edit-url-template = "https://github.com/coffeelize/clip/edit/main/{path}"
 
 [output.html.search]
 enable = false

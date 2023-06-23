@@ -1,8 +1,8 @@
 name: Build Daily Book
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: "3 16 * * *"
+  schedule:
+    - cron: "3 16 * * *"
 jobs:
   build-deploy:
     concurrency: build-daily-book
@@ -37,7 +37,7 @@ jobs:
           tag_name: "daily-${{ env.YESTERDAY }}"
           generate_release_notes: false
           body: |
-            Visit [Online](https://clip-template.vercel.app/).
+            Visit [Online](https://clip-yuanzhuangkafei.vercel.app/).
           files: |
             ./dist/*/*.epub
             ./dist/*/*.zip
